@@ -55,7 +55,7 @@ Aparelho utilizado para testes.
 - Unity e suas bibliotecas padrão;
 
 ## Resolvendo Problemas 
-- Após gerar a primeira build e iniciando o Aplicativo, foi possível notar que os botões da UI estavam pequenos. Foi possível corrigir este problema alterando as dimensões do projeto e re-escalando o tamanho dos botões.
+- Após gerar a primeira build e iniciar o Aplicativo, notou-se que os botões da UI estavam pequenos. Foi possível corrigir este problema alterando as dimensões do projeto e re-escalando o tamanho dos botões.
 
 ## Desenvolvedores/Contribuintes:
 PedroADev
