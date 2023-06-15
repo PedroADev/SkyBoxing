@@ -36,6 +36,8 @@ Sky Boxing é um jogo casual para Android desenvolvido na Unity, onde se deve em
 ✔️ - Alcance o espaço!
 
 ## Distribuição
+APKPure (aguardando...) : https://developer.apkpure.com/console/com.pedro.skyboxing
+
 APK Build no Google Drive: https://drive.google.com/file/d/1_UyJHEKhGVpjYYYIBH1F8GuMSszXw6Ru/view?usp=sharing
 
 ## Pré-requisitos ⚠️    
