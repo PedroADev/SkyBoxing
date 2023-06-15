@@ -23,13 +23,6 @@
 
 🔹 Desenvolvedores/Contribuintes
 
-🔹 Informações Extras
-
-
-...
-
-Insira os tópicos do README em links para facilitar a navegação do leitor
-
 ## Descrição do projeto
 Sky Boxing é um jogo casual para Android desenvolvido na Unity, onde se deve empilhar caixas e evitar derrubá-las.
 
