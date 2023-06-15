@@ -41,7 +41,7 @@ APK Build no Google Drive: https://drive.google.com/file/d/1_UyJHEKhGVpjYYYIBH1F
 ## Pré-requisitos ⚠️    
 Android 7.0 ou superior;  
 Aparelho utilizado para testes.
-- Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
+- Redmi Note 8 PRO
 
 ## Como rodar a aplicação 
 - Fazer o download do Projeto e abrir na Unity (2021.3.19f1);
