@@ -1,0 +1,4 @@
+repository "mobile@pepoguto@cloud"
+  path "/"
+    br "/main"
+    co "/main"
