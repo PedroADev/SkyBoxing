@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 393720986385093100}
   - component: {fileID: 8525483743891508801}
   - component: {fileID: -9070524928120467656}
-  m_Layer: 0
+  m_Layer: 1
   m_Name: box2
   m_TagString: Box
   m_Icon: {fileID: 0}
@@ -76,7 +76,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: 21300000, guid: 67244cdf0f8c38e4e80bbee93c182cd5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5f282ab00a51c2d45b2bd5420951d754, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
