@@ -5,6 +5,7 @@ using UnityEngine;
 public class GameplayController : MonoBehaviour
 {
 
+
     public static GameplayController instance;
 
     public BoxSpawner box_Spawner;
